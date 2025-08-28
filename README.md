@@ -34,3 +34,6 @@ Group Communication: It allows multiple clients to join a group chat, similar to
 Educational Use: The program is an excellent demonstration of how socket programming and threads can be used to build interactive applications, making it useful for learning networking concepts in Java.
 Real-Time Collaboration: With slight modifications, the application can be extended to support file sharing, notifications, or private messaging. This makes it suitable for small teams or classroom discussions.
 Prototype for Advanced Systems: The code provides a foundation for creating advanced client-server models such as multiplayer games, customer support chat systems, or internal communication tools in organizations.
+
+OUTPUT:
+<img width="691" height="632" alt="Image" src="https://github.com/user-attachments/assets/a0b4c5f3-8de6-43fa-9097-885633b16d6e" />
