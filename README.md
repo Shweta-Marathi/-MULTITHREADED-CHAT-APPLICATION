@@ -36,4 +36,5 @@ Real-Time Collaboration: With slight modifications, the application can be exten
 Prototype for Advanced Systems: The code provides a foundation for creating advanced client-server models such as multiplayer games, customer support chat systems, or internal communication tools in organizations.
 
 OUTPUT:
+
 <img width="691" height="632" alt="Image" src="https://github.com/user-attachments/assets/a0b4c5f3-8de6-43fa-9097-885633b16d6e" />
